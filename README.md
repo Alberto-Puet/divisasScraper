@@ -5,14 +5,14 @@ Utiliza web scraping con Puppeteer para extraer información de sitios como Ámb
 
 -------------------------------------------------------------
 
-🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
-Frontend:
+### Frontend:
 - ✅ Next.js + React
 - ✅ Tailwind CSS
 - ✅ Axios para peticiones HTTP
 
-Backend:
+### Backend:
 - ✅ Node.js + Express
 - ✅ Web Scraping con Puppeteer
 - ✅ MongoDB
