@@ -18,13 +18,13 @@ Utiliza web scraping con Puppeteer para extraer información de sitios como Ámb
 - ✅ MongoDB
 - ✅ node-cron para tareas programadas
 
----
+-------------------------------------------------------------
 
 ## 📸 Vista previa
 
 ![Vista del frontend](./screenshots/front.png)
 
----
+-------------------------------------------------------------
 
 ## ⚙️ Funcionalidades
 
